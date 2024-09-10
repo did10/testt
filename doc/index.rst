@@ -12,10 +12,3 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
-
-
-.. mermaid ::
-
-    graph TD
-    A --> B
-    B -- Label --> C

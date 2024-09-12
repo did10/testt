@@ -12,5 +12,5 @@ Welcome to Testt's documentation!
 
    some-feature.md
    another-feature.md
-   *.md
-   folder/*.md
+   Sphinx.md
+   folder

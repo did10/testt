@@ -15,7 +15,7 @@ Welcome to Testt's documentation!
    some-feature.md
    another-feature.md
    Sphinx.md
-   folder/nested.md
-   folder/A_second_file.md
+   folder
+   folder/index.rst
 
 

@@ -17,7 +17,7 @@ Let's make a list (empty surrounding lines required):
 
 ```{mermaid}
 graph LR
-id1[(Food)] --> id2["eat #40;ESM2,...#41;"] --> db[(Unhungry)] --> pip["Motivated"]:::redish  --> pred_db[(Bad jokes)]
+id1[(Food)] --> id2["eat #40;food,...#41;"] --> db[(Unhungry)] --> pip["Motivated"]:::redish  --> pred_db[(Bad jokes)]
 fnn[Coffee]:::redish  --> Awake
 classDef redish fill:#f96
 ```

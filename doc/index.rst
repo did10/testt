@@ -15,7 +15,15 @@ Welcome to Testt's documentation!
    some-feature.md
    another-feature.md
    Sphinx.md
+
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Other Content:
+   
    folder
    folder/index.rst
+   folder/nested.md
+   folder/*
 
 

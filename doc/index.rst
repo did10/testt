@@ -5,6 +5,8 @@
 
 Welcome to Testt's documentation!
 ===================================
+.. attention::
+    Stuff like this can be used
 
 .. toctree::
    :maxdepth: 4
@@ -13,4 +15,7 @@ Welcome to Testt's documentation!
    some-feature.md
    another-feature.md
    Sphinx.md
-   folder
+   folder/nested.md
+   folder/A_second_file.md
+
+
